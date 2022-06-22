@@ -33,7 +33,7 @@
     "mkdirp": "^0.5.5",
     "pythonic": "^2.0.3",
     "sanitize-filename": "^1.6.3",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "websocket": "^1.0.34"
   }
 }
